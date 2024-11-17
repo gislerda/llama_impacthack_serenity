@@ -188,11 +188,15 @@ class LonelinessBot:
                     user_message=user_message,
                     user_id=user_id
                 )
-                added_context = "SENTIMENT_HIST: " + str(sentiment_data) + suggestion_response
+                
             elif decider_response == "listen_agent":
                 self.conversation_agent.system_prompt += "KEEP YOUR ANSWER TO ONE SHORT SENTENCE!\n One line maximum, e.g. ending on a short question showing GENUINE interest. Avoid empty words"
             else:  # identity case
                 added_context = "SENTIMENT_HIST: " + str(sentiment_data) + user_message
+
+            memory_data = await self.memory_agent.get_memory_context(user_id=user_id)
+            print(f"MEMORY DATA: {memory_data}")
+            added_context = "SENTIMENT_HIST: " + str(sentiment_data) + suggestion_response + "IMPORTANT MEMORIES " + str(memory_data)
 
         #TODO
         #
