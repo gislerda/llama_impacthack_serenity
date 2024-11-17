@@ -1,0 +1,130 @@
+{
+    "coping_strategies": {
+        "loneliness": [
+            {
+                "strategy": "Connect with loved ones",
+                "description": "Reach out to family or friends through calls, video chats, or in-person meetups."
+            },
+            {
+                "strategy": "Join a community or support group",
+                "description": "Engage in local or online groups that share your interests or experiences."
+            },
+            {
+                "strategy": "Adopt a pet",
+                "description": "Caring for a pet can provide companionship and a sense of purpose."
+            },
+            {
+                "strategy": "Volunteer",
+                "description": "Helping others can create meaningful connections and reduce feelings of isolation."
+            },
+            {
+                "strategy": "Practice mindfulness or meditation",
+                "description": "Focus on the present to alleviate feelings of disconnection."
+            },
+            {
+                "strategy": "Engage in hobbies",
+                "description": "Pursue creative or enjoyable activities to distract from loneliness."
+            },
+            {
+                "strategy": "Exercise",
+                "description": "Physical activity boosts mood and provides opportunities for social interactions."
+            },
+            {
+                "strategy": "Set small social goals",
+                "description": "Gradually increase social interactions by setting achievable goals, like saying hello to neighbors."
+            },
+            {
+                "strategy": "Limit social media use",
+                "description": "Avoid comparisons by reducing time spent on social media platforms."
+            },
+            {
+                "strategy": "Seek professional support",
+                "description": "Consult a therapist to develop coping mechanisms and address underlying causes."
+            }
+        ],
+        "self_harm": [
+            {
+                "strategy": "Delay the urge",
+                "description": "Set a timer to wait 10-15 minutes before acting on the urge; often, the intensity will pass."
+            },
+            {
+                "strategy": "Identify triggers",
+                "description": "Understand what prompts self-harming thoughts to better manage them."
+            },
+            {
+                "strategy": "Use safe alternatives",
+                "description": "Channel urges through harmless methods like snapping a rubber band on your wrist or drawing on skin with markers."
+            },
+            {
+                "strategy": "Reach out to trusted individuals",
+                "description": "Talk to someone who can offer support, such as a friend, family member, or therapist."
+            },
+            {
+                "strategy": "Keep a journal",
+                "description": "Write down feelings to better understand and process emotions."
+            },
+            {
+                "strategy": "Create a self-soothing kit",
+                "description": "Assemble comforting items like stress balls, calming music, or scented candles."
+            },
+            {
+                "strategy": "Practice grounding techniques",
+                "description": "Focus on the present by using the 5-4-3-2-1 technique (senses-based grounding)."
+            },
+            {
+                "strategy": "Develop a crisis plan",
+                "description": "Create a detailed plan for when urges arise, including who to call and what to do."
+            },
+            {
+                "strategy": "Engage in physical activity",
+                "description": "Exercise or take a walk to release endorphins and redirect energy."
+            },
+            {
+                "strategy": "Seek professional help",
+                "description": "Work with a counselor or psychiatrist to address the underlying issues."
+            }
+        ],
+        "suicidal_ideation": [
+            {
+                "strategy": "Talk to someone immediately",
+                "description": "Contact a trusted friend, family member, or crisis hotline for immediate support."
+            },
+            {
+                "strategy": "Create a safety plan",
+                "description": "Outline steps to follow during a crisis, including emergency contacts and coping strategies."
+            },
+            {
+                "strategy": "Remove means of self-harm",
+                "description": "Make your environment safe by removing or limiting access to harmful tools or substances."
+            },
+            {
+                "strategy": "Focus on short-term survival",
+                "description": "Concentrate on getting through the next minute, hour, or day, rather than long-term worries."
+            },
+            {
+                "strategy": "Distract yourself",
+                "description": "Engage in activities you enjoy, such as watching movies, listening to music, or painting."
+            },
+            {
+                "strategy": "Challenge negative thoughts",
+                "description": "Write down negative beliefs and counter them with evidence-based positive affirmations."
+            },
+            {
+                "strategy": "Practice deep breathing or relaxation techniques",
+                "description": "Reduce immediate stress with breathing exercises, yoga, or guided meditation."
+            },
+            {
+                "strategy": "Reach out to a therapist",
+                "description": "Seek professional counseling to explore feelings and develop coping mechanisms."
+            },
+            {
+                "strategy": "Write a gratitude list",
+                "description": "Note things, people, or experiences you value to shift focus to positive aspects of life."
+            },
+            {
+                "strategy": "Join a support group",
+                "description": "Connect with others who have faced similar challenges to gain perspective and support."
+            }
+        ]
+    }
+}

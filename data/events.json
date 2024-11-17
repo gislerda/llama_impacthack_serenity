@@ -1,0 +1,52 @@
+{
+    "events": [
+        {
+            "name": "King's Cross Walking Tour",
+            "description": "Explore the recent redevelopment of King's Cross, including historical sites and modern attractions.",
+            "type": "Tour",
+            "date": "2024-11-17",
+            "time": "10:00 - 12:00",
+            "location": {
+                "venue": "Battle Bridge Place",
+                "address": "King's Cross, London N1C 4BU",
+                "latitude": 51.5325,
+                "longitude": -0.1231
+            },
+            "distance_km": 0.5,
+            "price": "\u00a315",
+            "url": "https://www.eventbrite.co.uk/e/kings-cross-tickets-978062851317"
+        },
+        {
+            "name": "Afternoon Show: Swing With The Prospective Collective",
+            "description": "Live jazz performance as part of the EFG London Jazz Festival.",
+            "type": "Music",
+            "date": "2024-11-17",
+            "time": "15:00 - 17:00",
+            "location": {
+                "venue": "Jamboree",
+                "address": "6 St Chad's Place, London WC1X 9HH",
+                "latitude": 51.53,
+                "longitude": -0.1215
+            },
+            "distance_km": 0.3,
+            "price": "Free (donations welcome)",
+            "url": "https://www.jamboreevenue.co.uk/events/"
+        },
+        {
+            "name": "Jaz Delorean Trio Performance",
+            "description": "Evening performance by the Jaz Delorean Trio, featuring tunes inspired by bar-room piano players of the Old West.",
+            "type": "Music",
+            "date": "2024-11-17",
+            "time": "20:30 - 22:30",
+            "location": {
+                "venue": "Jamboree",
+                "address": "6 St Chad's Place, London WC1X 9HH",
+                "latitude": 51.53,
+                "longitude": -0.1215
+            },
+            "distance_km": 0.3,
+            "price": "\u00a310 - \u00a312",
+            "url": "https://www.jamboreevenue.co.uk/events/"
+        }
+    ]
+}

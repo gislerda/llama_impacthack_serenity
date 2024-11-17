@@ -1,0 +1,53 @@
+{
+    "sentiment_analysis": [
+        {
+            "timestamp": "2024-11-17T09:36:55.114167Z",
+            "sentiment": "Sentiment: Negative, \nLoneliness Level: High, \nCritical Signal: Indeterminate (expresses deep feeling of loneliness but doesn't imply immediate need for help).",
+            "loneliness_level": null,
+            "message": "It\u2019s strange, but even with friends, I feel lonely, and I can\u2019t really explain why. With graduation coming up, everything just feels heavier than I expected.",
+            "critical_signal": null
+        },
+        {
+            "timestamp": "2024-11-17T09:37:26.105800Z",
+            "sentiment": "- Sentiment: Negative (experiencing stress, dark thoughts)\n- Loneliness level: Moderate (expressing vulnerability)\n- Critical signal: Self-harm risk (mention of \"quite dark thoughts\")",
+            "loneliness_level": null,
+            "message": "I just haven't been feeling good. Exams are really stressing me out a lot. I've had quite dark thoughts recently and i think i won't manage to graduate.",
+            "critical_signal": null
+        },
+        {
+            "timestamp": "2024-11-17T09:44:54.677194Z",
+            "sentiment": "- Sentiment: Positive\n- Loneliness level: Low\n- Critical signal: None",
+            "loneliness_level": null,
+            "message": "Thank you, this helped. I've been wanting to go out with my friends, but I don't know what to ask of them. Do you have a suggestion for an event we could go to?",
+            "critical_signal": null
+        },
+        {
+            "timestamp": "2024-11-17T09:45:10.770583Z",
+            "sentiment": "- Sentiment: Positive\n- Loneliness level: Low\n- Critical signal: None",
+            "loneliness_level": null,
+            "message": "Sounds cool, thank you.",
+            "critical_signal": null
+        },
+        {
+            "timestamp": "2024-11-17T09:46:03.108167Z",
+            "sentiment": "- Sentiment: Positive \n- Loneliness Level: Moderate-to-Low (user expresses gratitude but also mentions 'loneliness', implying it was a concern)\n- Critical Signal: No",
+            "loneliness_level": null,
+            "message": "After joining the walking tour, i've just felt really blessed. It really brightened my day! Thank you for encouraging me to do something against my loneliness.",
+            "critical_signal": null
+        },
+        {
+            "timestamp": "2024-11-17T09:47:09.037899Z",
+            "sentiment": "Sentiment: Positive\nLoneliness level: Low\nCritical signal: None",
+            "loneliness_level": null,
+            "message": null,
+            "critical_signal": null
+        },
+        {
+            "timestamp": "2024-11-17T09:47:32.853083Z",
+            "sentiment": "Sentiment: Positive \nLoneliness Level: Low \nCritical Signal: None",
+            "loneliness_level": null,
+            "message": "I think I'll go help out other people achieving serenity.",
+            "critical_signal": null
+        }
+    ]
+}

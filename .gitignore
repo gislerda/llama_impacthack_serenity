@@ -1,0 +1,21 @@
+# Ignore the virtual environment folder
+venv/
+
+# Ignore the llama-stack folder
+llama-stack/
+
+# Ignore specific files
+url.txt
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore temporary files
+*.tmp
+*.log
+
+.env
+bot_database.db
+bot_database_old.db
