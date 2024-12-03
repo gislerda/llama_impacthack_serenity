@@ -196,7 +196,7 @@ class LonelinessBot:
 
             memory_data = await self.memory_agent.get_memory_context(user_id=user_id)
             print(f"MEMORY DATA: {memory_data}")
-            added_context = "SENTIMENT_HIST: " + str(sentiment_data) + suggestion_response + "IMPORTANT MEMORIES " + str(memory_data)
+            added_context = "SENTIMENT_HIST: " + str(sentiment_data)  + "IMPORTANT MEMORIES " + str(memory_data)
 
         #TODO
         #
